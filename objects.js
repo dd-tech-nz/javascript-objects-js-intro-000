@@ -1,3 +1,3 @@
 const playlist = {
-  Jimmi Hendrix: Purple Haze
+  "Jimmi Hendrix": "Purple Haze"
 }
